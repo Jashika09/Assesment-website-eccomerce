@@ -3,6 +3,10 @@ module.exports = {
   content: [
     "./src/**/*.{html,ts}",
   ],
+  purge: [
+    "./src/**/*.{js,jsx}",
+    "./public/index.html",
+  ],
   theme: {
     extend: {
       colors: {
