@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f886b7;
+      }
+
+      .cls-2 {
+        fill: #34a853;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #262627;
+      }
+
+      .cls-4 {
+        fill: #f8bc04;
+      }
+
+      .cls-5 {
+        fill: #5991f5;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="1099.34" cy="402.062" r="58.5"/>
+  <path class="cls-2" d="M835.583,583.06L965.691,452.953a58.5,58.5,0,0,1,82.729,82.731L918.314,665.792A58.5,58.5,0,0,1,835.583,583.06Z"/>
+  <path id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-3" d="M674.343,532.168L1230.17-23.657a58.5,58.5,0,1,1,82.73,82.732L757.075,614.9A58.5,58.5,0,0,1,674.343,532.168Z"/>
+  <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-4" d="M710.708,275.186L1119.86-133.968a58.5,58.5,0,0,1,82.73,0h0a58.492,58.492,0,0,1,0,82.731L793.439,357.918a58.5,58.5,0,0,1-82.731,0h0A58.5,58.5,0,0,1,710.708,275.186Z"/>
+  <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-5" d="M1149.54,269.105L1279.65,139a58.5,58.5,0,0,1,82.73,82.732L1232.27,351.836A58.5,58.5,0,0,1,1149.54,269.105Z"/>
+</svg>

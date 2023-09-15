@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+// @import "primeng/resources/primeng.css";
+// @import "primeicons/primeicons.css";
+@layer base {
+
+  button,
+  [type='button'],
+  [type='reset'],
+  [type='submit'] {
+    -webkit-appearance: button;
+    background-color: white;
+    background-image: none;
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
+
+// @import "primeicons/primeicons.css";
+// @import "primeng/resources/themes/saga-orange/theme.css";
+// @import "primeng/resources/primeng.css";
